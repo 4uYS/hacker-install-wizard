@@ -1,5 +1,8 @@
 # Hacker Install Wizard
 
+
+[中文](README.md) | [English](README.en.md)
+
 Hacker Terminal 安装向导制作工具 —— 一键生成专业安装包
 
 ---
@@ -182,4 +185,4 @@ MIT License
 
 ---
 
-**Hacker Install Wizard** · 爱折腾实验室 · 豆包 AI Agent Lab
+**Hacker Install Wizard** · 爱折腾AI实验室（AI Agent Lab, AAL）
